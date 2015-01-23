@@ -1,0 +1,71 @@
+Figwheel: focusing on build-ids (flappy-bird-demo)
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.309 seconds.[0m
+notifying browser that file changed:  /js/flappy_bird_demo.js
+notifying browser that file changed:  /js/out/goog/deps.js
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.976 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 1.333 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.737 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.76 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.827 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.35 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.56 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+WARNING: cljs.core/>, all arguments must be numbers, got [number long] instead. at line 114 src/flappy_bird_demo/core.cljs
+WARNING: cljs.core/==, all arguments must be numbers, got [number long] instead. at line 124 src/flappy_bird_demo/core.cljs
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.933 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.77 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.646 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.81 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+sending changed CSS file: /css/style.css
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.734 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+sending changed CSS file: /css/style.css
+sending changed CSS file: /css/style.css
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.647 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.641 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.845 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.699 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.892 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.438 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.362 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
+[0mCompiling "resources/public/js/flappy_bird_demo.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/flappy_bird_demo.js" in 0.291 seconds.[0m
+notifying browser that file changed:  /js/out/flappy_bird_demo/core.js
